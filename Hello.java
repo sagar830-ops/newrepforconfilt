@@ -14,7 +14,7 @@ public class TestApp {
         Transaction tx = session.beginTransaction();
 
         Student s = new Student();
-        s.setName("Ravi");
+        s.setName("Sagar");
         s.setRollno(111);
         s.setAddress("Wani");
 
